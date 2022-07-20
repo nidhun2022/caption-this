@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Training for GITHub is done!"
 ---
 
-Caption here
+Anand AR training 
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
