@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to playground!"
 ---
 
-Caption here
+Hello from Playground
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
