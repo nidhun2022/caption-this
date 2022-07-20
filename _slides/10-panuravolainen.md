@@ -1,12 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
 
-title: "Welcome to training slide deck!"
-
+title: "Welcome to our slide deck for the Training!"
 ---
 
-Caption here
+Hello from Panu Ravolainen!
 
 Welcome
 
